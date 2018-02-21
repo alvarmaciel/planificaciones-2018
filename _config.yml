@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /planificaciones-para-armar
+baseurl: /planificaciones-2018
 markdown: kramdown
 permalink: /:categories/:title/
 
