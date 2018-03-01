@@ -26,6 +26,16 @@ Para relevar el punto de partida de los alumnos se pueden proponer dos situacion
 * Se trata de:
 * Si tuvieras que recomendar este cuento a alguien que no lo leyó ¿qué le dirías?:
 
+### Títulos
+
+- La Ventana Abierta. Saki
+- Verde. Liliana Bodoc
+- Rojo. Liliana Bodoc
+- Las brujas que trabajan en los cuentos. Cecilia Pisos.
+- El señor Medina. Iris Rivera
+
+
+
 ## Horarios registros y Juegos Dobles
 
 * Confección de [horario]({{site.baseurl}}/modules/cronogramas/horario/) a partir de instrucciones
