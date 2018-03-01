@@ -9,6 +9,7 @@ published: true
 * TOC
 {:toc}
 
+
 ## Ficha Lectora (Cuadernillo de 5to grado)
 Para relevar el punto de partida de los alumnos se pueden proponer dos situaciones de lectura y escritura como las siguientes:
 
@@ -25,4 +26,13 @@ Para relevar el punto de partida de los alumnos se pueden proponer dos situacion
 * Se trata de:
 * Si tuvieras que recomendar este cuento a alguien que no lo leyó ¿qué le dirías?:
 
-## Juegos Dobles
+## Horarios registros y Juegos Dobles
+
+* Confección de horario a partir de instrucciones
+  * Se evaluará si las instrucciones serán:
+  * [ ] gráficas o
+  * [ ] textuales
+* Confección de registro de seguimiento a partir de instrucciones
+  * Se evaluará si las instrucciones serán:
+  * [ ] gráficas o
+  * [ ] textuales
