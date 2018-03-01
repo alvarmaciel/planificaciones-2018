@@ -6,7 +6,7 @@ subtitle: Grado de Aceleración 2018
 category:  planianual
 published: true
 ---
-## Índice
+
 * TOC
 {:toc}
 
