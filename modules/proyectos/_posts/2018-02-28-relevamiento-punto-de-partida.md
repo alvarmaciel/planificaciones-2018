@@ -28,7 +28,7 @@ Para relevar el punto de partida de los alumnos se pueden proponer dos situacion
 
 ## Horarios registros y Juegos Dobles
 
-* Confección de horario a partir de instrucciones
+* Confección de [horario]({{site.baseurl}}/modules/cronogramas/horario/) a partir de instrucciones
   * Se evaluará si las instrucciones serán:
   * [ ] gráficas o
   * [ ] textuales
@@ -36,3 +36,6 @@ Para relevar el punto de partida de los alumnos se pueden proponer dos situacion
   * Se evaluará si las instrucciones serán:
   * [ ] gráficas o
   * [ ] textuales
+* Ejemplo de un registro de hábitos. Algo similar vamos a hacer para hacer un seguimiento como estudiantes
+
+![Ejemplo](http://www.thecosmicroad.com/wp-content/uploads/2017/01/Habit-Tracker-A5.png)
