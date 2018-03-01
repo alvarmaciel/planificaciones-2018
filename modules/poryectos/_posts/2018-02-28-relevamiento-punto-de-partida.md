@@ -9,6 +9,20 @@ published: true
 * TOC
 {:toc}
 
-## Ficha Lectora
+## Ficha Lectora (Cuadernillo de 5to grado)
+Para relevar el punto de partida de los alumnos se pueden proponer dos situaciones de lectura y escritura como las siguientes:
+
+* Intercambio acerca de los libros leídos, de modo de producir algún reencuentro con los textos dado que el propósito no es medir cuán to recuerdan.
+  * Elaboración colectiva del listados de los textos leídos, propiciando espacios para recuperar las historias y volver a comentarlas.
+  * Mesa de libros con ejemplares leídos el año anterior o abstract en blog.
+
+* Completar una ficha con información de cuentos que hayan leído el año anterior.
+
+* Título:
+* Autor:
+* Ilustrador:
+* Editorial:
+* Se trata de:
+* Si tuvieras que recomendar este cuento a alguien que no lo leyó ¿qué le dirías?:
 
 ## Juegos Dobles
