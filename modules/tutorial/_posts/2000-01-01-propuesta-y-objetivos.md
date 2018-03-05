@@ -4,7 +4,7 @@ title: Propuesta y objetivos
 
 ## ¿Para qué sirve este kit?
 
-![empezando]({{site.baseurl}}/img/inicioStorm.jpg)
+![empezando]({{site.baseurl}}/assets/img/inicioStorm.jpg)
 
 Imagen [CC-BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/) de [Jim Bauer](https://www.flickr.com/photos/lens-cap/15853661887) en [Flickr](https://flickr.com)
 

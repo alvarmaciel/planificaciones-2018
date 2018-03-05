@@ -12,7 +12,7 @@ Last week we talked about community. We could probably have a complete course on
 If you missed last week, don’t worry, you can join the conversation on [discourse](http://community.p2pu.org/t/course-in-a-box-community-safari/1153) and continue working on the projects at your own pace.
 
 
-![GIF of cat learning to swim]({{site.baseurl}}/img/learning-to-swim.gif)
+![GIF of cat learning to swim]({{site.baseurl}}/assets/img/learning-to-swim.gif)
 
 This week we are discussing learning design. We have several projects to help us learn:
 

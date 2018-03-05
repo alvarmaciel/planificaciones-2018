@@ -66,4 +66,4 @@ Se harán dos tipos de aproximaciones para relevar el punto de partida. Una apun
 
 [Ver juego en Relaciones Múltiples. Serie Piedra Libre](https://www.educ.ar/recursos/117989/relaciones-multiples?coleccion=118471)
 
-![tablero]({{site.baseurl}}/img/mate/tableroDobles.jpg)
+![tablero]({{site.baseurl}}/assets/img/mate/tableroDobles.jpg)

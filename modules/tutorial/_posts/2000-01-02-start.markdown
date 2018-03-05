@@ -13,5 +13,5 @@ Planificaciones para armar consiste de:
 
 El resto de este módulo les guiará a través del proceso de creado de un sitio web en el cual publicar sus planes de clase, permitiendoles agregar los módulos que quieran o actualizar el contenido de las secciones.
 
-![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
+![Image of maze with starting point indicated]({{site.baseurl}}/assets/img/start.jpg)
 Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.

@@ -6,7 +6,7 @@ published: false
 
 # Community: the Dynamics of Generating Awesome
 
-![Image of community]({{site.baseurl}}/img/community.jpg)
+![Image of community]({{site.baseurl}}/assets/img/community.jpg)
 
 *Learners go farther when they learn together.*
 
@@ -18,7 +18,7 @@ The way we see it, any online learning experience consists of three parts:
 
 The way those pieces work together looks like this:
 
-![Venn diagram showing the intersection of social presence, cognitive presence and teaching presence.]({{site.baseurl}}/img/community-diagram.jpg)
+![Venn diagram showing the intersection of social presence, cognitive presence and teaching presence.]({{site.baseurl}}/assets/img/community-diagram.jpg)
 
 In this part of the course, we’ll talk about “social presence” (or community), and how to build one around your learning goals.
 
@@ -44,15 +44,15 @@ Let's ask around:
 
 Scholar and writer Clay Shirky, in describing [how the open source community Perl works](https://www.youtube.com/watch?v=Xe1TZaElTAs) described his litmus test:
 
-![shirky community.png]({{ site.baseurl }}/img/shirky%20community.png)
+![shirky community.png]({{ site.baseurl }}/assets/img/shirky%20community.png)
 
 Communities also provide a sense of interconnectedness. Community designer Alex Hillman shows how important it is to design for deep, trusting interactions, because they create *value* for the participants:
 
-![hillman community.png]({{ site.baseurl }}/img/hillman%20community.png)
+![hillman community.png]({{ site.baseurl }}/assets/img/hillman%20community.png)
 
 At P2PU, we describe community as a combination of the above. For us, community is a sense of *shared purpose and belonging*.
 
-![P2PU community.png]({{ site.baseurl }}/img/P2PU%20community.png)
+![P2PU community.png]({{ site.baseurl }}/assets/img/P2PU%20community.png)
 
 Think about your local PTA, block party organization, church, book club or alumni association. You participate for a reason, and when you're there, you have a sense that you’re included.
 
@@ -67,7 +67,7 @@ Often at P2PU learners and facilitators design the course together. We've alread
 ### Welcome new members to the community?
 We like to ask folks to introduce themselves on [community.p2pu.org](http://community.p2pu.org/t/please-introduce-yourself/28). We build social presence by asking people a bit about their personality and their background:
 
-![Image of discourse forum]({{site.baseurl}}/img/discourse.png)
+![Image of discourse forum]({{site.baseurl}}/assets/img/discourse.png)
 
 ### Celebrate successes?
 Each community has their own rituals to recognize success (think about work anniversaries, juried art shows, ribbon-cutting ceremonies, etc.) These activities build a shared sense of quality in a community--they provide models for what is imporant, what individual members should strive to produce, what good collaborations might look like. Thinking about what you value and measure is important in community design.

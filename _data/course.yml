@@ -9,7 +9,7 @@ signups:
    image: https://pbs.twimg.com/profile_images/465974023558418434/NYQWX2pm_400x400.jpeg
    twitter: davecormier
  - name: Dirk Uys
-   image: http://thebacklog.net/img/profile.jpeg
+   image: http://thebacklog.net/assets/img/profile.jpeg
    twitter: riskycud
    github_username: dirkcuys
  - name: Vanessa Gennarelli
@@ -172,5 +172,5 @@ signups:
    image: https://cdn.pixabay.com/photo/2015/11/10/07/41/eagle-owl-1036426_960_720.jpg
    twitter: BohemianPasteli
    name : Mehmet Keçeci
-   image : https://github.com/WhiteSymmetry/badge-course/blob/gh-pages/img/mk.jpg
+   image : https://github.com/WhiteSymmetry/badge-course/blob/gh-pages/assets/img/mk.jpg
    twitter: mkececi

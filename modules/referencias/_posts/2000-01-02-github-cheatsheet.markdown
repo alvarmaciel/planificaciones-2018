@@ -11,7 +11,7 @@ To fork a repository, go to the repository you would like to fork.  Ex. "https:/
 
 Click "Fork" at the top right of the page.  That's it!  You will now have your own copy of the repository.
 
-![]({{site.baseurl}}/img/tools/github-fork-step-1.png)
+![]({{site.baseurl}}/assets/img/tools/github-fork-step-1.png)
 
 ## How to submit a pull request
 
@@ -19,27 +19,27 @@ To submit a pull request, go to a repository that you forked. Ex. "https://githu
 
 Select the "Pull Requests" tab.
 
-![]({{site.baseurl}}/img/tools/github-pull-request-step-1-small.png)
+![]({{site.baseurl}}/assets/img/tools/github-pull-request-step-1-small.png)
 
 Click on "New pull request".
 
-![]({{site.baseurl}}/img/tools/github-pull-request-step-2-small.png)
+![]({{site.baseurl}}/assets/img/tools/github-pull-request-step-2-small.png)
 
 See if the changes shown are correct and then click "Create pull request".
 
-![]({{site.baseurl}}/img/tools/github-pull-request-step-3-small.png)
+![]({{site.baseurl}}/assets/img/tools/github-pull-request-step-3-small.png)
 
 Fill in a title for the pull request and click on "Create".
 
-![]({{site.baseurl}}/img/tools/github-pull-request-step-4-small.png)
+![]({{site.baseurl}}/assets/img/tools/github-pull-request-step-4-small.png)
 
 You are done and the pull request will look something like this:
 
-![]({{site.baseurl}}/img/tools/github-pull-request-step-5-small.png)
+![]({{site.baseurl}}/assets/img/tools/github-pull-request-step-5-small.png)
 
 You can click on the "Files changed" tab to see the changes that was made.
 
-![]({{site.baseurl}}/img/tools/github-pull-request-step-6-small.png)
+![]({{site.baseurl}}/assets/img/tools/github-pull-request-step-6-small.png)
 
 ## How to edit a file
 
@@ -57,41 +57,41 @@ You just forked this awesome project but it got more awesome... what do you do?
 
 Go to your repository on GitHub and click the green Pull Request button.
 
- ![]({{site.baseurl}}/img/tools/github-upstream-step-1.png)
+ ![]({{site.baseurl}}/assets/img/tools/github-upstream-step-1.png)
 
 If you haven't made any updates to your repository it will tell you there is nothing to compare.  Click 'switching the base' and jump past the next couple steps to 'Create pull request.'  If you have made updates to your repository click the 'Edit' button.
 
- ![]({{site.baseurl}}/img/tools/github-upstream-step-2.png)
+ ![]({{site.baseurl}}/assets/img/tools/github-upstream-step-2.png)
 
 Change the base fork to your repository
 
-  ![]({{site.baseurl}}/img/tools/github-upstream-step-2-1.png)
+  ![]({{site.baseurl}}/assets/img/tools/github-upstream-step-2-1.png)
 
 It will tell you that there isn't anything to compare (Which is true! You are comparing your respository to itself!).
 
 Click 'Edit' again and click 'compare across forks.'
 
-  ![]({{site.baseurl}}/img/tools/github-upstream-step-2-2.png)
+  ![]({{site.baseurl}}/assets/img/tools/github-upstream-step-2-2.png)
 
 Change the head fork to main respository (p2pu in this case).
 
-  ![]({{site.baseurl}}/img/tools/github-upstream-step-2-3.png)
+  ![]({{site.baseurl}}/assets/img/tools/github-upstream-step-2-3.png)
 
 Click 'Create pull request.'
 
- ![]({{site.baseurl}}/img/tools/github-upstream-step-3.png)
+ ![]({{site.baseurl}}/assets/img/tools/github-upstream-step-3.png)
 
 Fill out your merge request that will be submitted to yourself.
 
- ![]({{site.baseurl}}/img/tools/github-upstream-step-4.png)
+ ![]({{site.baseurl}}/assets/img/tools/github-upstream-step-4.png)
 
 Go to the bottom of the page and click 'Merge pull request.'
 
- ![]({{site.baseurl}}/img/tools/github-upstream-step-5.png)
+ ![]({{site.baseurl}}/assets/img/tools/github-upstream-step-5.png)
 
 Click 'Confirm merge.'
 
- ![]({{site.baseurl}}/img/tools/github-upstream-step-6.png)
+ ![]({{site.baseurl}}/assets/img/tools/github-upstream-step-6.png)
 
 That's it!  
 

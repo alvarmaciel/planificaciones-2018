@@ -6,7 +6,7 @@ title: Estructura
 
 Algo que caracteriza a la práctica educativa es la diversidad de formas y formatos que existen para planificar la enseñanza. Creemos que la diversidad, lejos de ser un problema, constituye el núcleo vivo de nuestras prácticas, y la posibilidad concreta que habilita un punto de partida para pensarnos como educadorxs .
 
-![diversidad]({{site.baseurl}}/img/diversidad.jpg)
+![diversidad]({{site.baseurl}}/assets/img/diversidad.jpg)
 
 Imagen [CC-BY](https://creativecommons.org/licenses/by/2.0/) de [spivaartworkers](https://www.flickr.com/photos/spivaartworkers/8751203110) en [flickr](https://www.flickr.com)
 
@@ -32,4 +32,4 @@ actualizaciones y otros son módulos tienen una vida más *dinámica* que serán
 
 Boceto de las planificaciones:
 
-![boceto]({{site.baseurl}}/img/boceto.png)
+![boceto]({{site.baseurl}}/assets/img/boceto.png)

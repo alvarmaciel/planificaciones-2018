@@ -9,7 +9,7 @@ Hey!
 
 Welcome to Course in a Box! This is week 1 and we are talking, thinking and reading about community: [http://howto.p2pu.org/modules/community/concepts/](http://howto.p2pu.org/modules/community/concepts/).
 
-![Gif of excited boy]({{site.baseurl}}/img/excited.gif)
+![Gif of excited boy]({{site.baseurl}}/assets/img/excited.gif)
 
 The action items for this week are
 

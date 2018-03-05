@@ -21,5 +21,5 @@ _layout/page.html
 ```
 title: "DIY U: Build a Personal Learning Plan"
 language: en
-image: /img/diy-u/thumb.jpg
+image: /assets/img/diy-u/thumb.jpg
 ```
