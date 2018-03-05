@@ -9,7 +9,7 @@ published: true
 * TOC
 {:toc}
 
-### Algunos cuentos que leyeron en 2017
+## Algunos cuentos que leyeron en 2017
 Selección de algunos cuentos que le gustan al profe ^_^
 
 ### La Ventana Abierta
