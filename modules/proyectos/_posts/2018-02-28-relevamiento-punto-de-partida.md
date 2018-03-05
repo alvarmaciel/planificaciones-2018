@@ -30,12 +30,12 @@ Para relevar el punto de partida de los alumnos se pueden proponer situaciones d
 * Se trata de:
 * Si tuvieras que recomendar este cuento a alguien que no lo leyó ¿qué le dirías?:
 
-## Reflexión sobre el lenguaje
+### Reflexión sobre el lenguaje
 -  A partir de alguna de las fichas retomar:
   - separación léxica,
   - Uso de mayúsculas.
 
-## Selección de dos cuentos para relectura
+### Selección de dos cuentos para relectura
 
 - Lectura por parte del maestro de los cuentos seleccionados
 - Escritura por dictado al maestro:
