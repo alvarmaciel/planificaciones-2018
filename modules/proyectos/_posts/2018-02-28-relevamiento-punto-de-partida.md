@@ -9,9 +9,11 @@ published: true
 * TOC
 {:toc}
 
+## Prácticas del lenguaje
 
-## Ficha Lectora (Cuadernillo de 5to grado)
-Para relevar el punto de partida de los alumnos se pueden proponer dos situaciones de lectura y escritura como las siguientes:
+Para relevar el punto de partida de los alumnos se pueden proponer situaciones de lectura y escritura como las siguientes.
+
+### Ficha Lectora (Cuadernillo de 5to grado)
 
 * Intercambio acerca de los libros leídos, de modo de producir algún reencuentro con los textos dado que el propósito no es medir cuán to recuerdan.
   * Elaboración colectiva del listados de los textos leídos, propiciando espacios para recuperar las historias y volver a comentarlas.
@@ -27,6 +29,19 @@ Para relevar el punto de partida de los alumnos se pueden proponer dos situacion
 * Editorial:
 * Se trata de:
 * Si tuvieras que recomendar este cuento a alguien que no lo leyó ¿qué le dirías?:
+
+## Reflexión sobre el lenguaje
+-  A partir de alguna de las fichas retomar:
+  - separación léxica,
+  - Uso de mayúsculas.
+
+## Selección de dos cuentos para relectura
+
+- Lectura por parte del maestro de los cuentos seleccionados
+- Escritura por dictado al maestro:
+  - Se trata de:
+  - Si tuvieras que recomendar este cuento a alguien que no lo leyó ¿qué le dirías?:
+- Completado de las fichas (PC)
 
 
 
