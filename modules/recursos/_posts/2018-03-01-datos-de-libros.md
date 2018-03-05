@@ -47,4 +47,4 @@ Selección de algunos cuentos que le gustan al profe ^_^
 
 ## Doc con cuentos
 
-[Documento en libreoffice con cuentos para imprimir]({{site.baseurl/assets/docs/cuentos.doc}})
+[Documento en libreoffice con cuentos para imprimir]({{site.baseurl}}/assets/docs/cuentos.doc}})
