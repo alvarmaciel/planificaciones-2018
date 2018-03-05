@@ -41,3 +41,7 @@ published: true
 |Tapa|Datos|
 |:--:|:--|
 |![]({{site.baseurl}}/img/libros/medina.jpg)|**El señor Medina**<br>Iris Rivera<br>Ilustraciones: Gustavo Roldán (h)<br>Editorial: Colihue|
+
+## Doc con cuentos
+
+[Documento en libreoffice con cuentos para imprimir]({{site.baseurl/assets/docs/cuentos.doc}})
