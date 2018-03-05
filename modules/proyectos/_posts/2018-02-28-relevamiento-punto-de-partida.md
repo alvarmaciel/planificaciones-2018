@@ -5,6 +5,7 @@ tags: [cronogramas]
 subtitle: Prácticas del lenguaje y matemáticas
 category:  proyectos
 published: true
+disqus: true
 ---
 * TOC
 {:toc}

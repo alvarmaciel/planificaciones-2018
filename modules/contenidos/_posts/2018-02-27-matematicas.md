@@ -5,6 +5,7 @@ tags: [Planificacion anual]
 subtitle: Grado de Aceleración 2018
 category:  planianual
 published: true
+disqus: true
 ---
 
 * TOC
