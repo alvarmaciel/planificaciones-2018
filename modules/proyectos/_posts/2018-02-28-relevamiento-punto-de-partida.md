@@ -43,9 +43,11 @@ Para relevar el punto de partida de los alumnos se pueden proponer situaciones d
   - Si tuvieras que recomendar este cuento a alguien que no lo leyó ¿qué le dirías?:
 - Completado de las fichas (PC)
 
+## Matemáticas
+Se harán dos tipos de aproximaciones para relevar el punto de partida. Una apunta a relevar el uso regla y medición a partir de la construcción de horarios y tablas. El otro ara relevar el punto de partida en el campo de las operaciones con dobles, triples y cuadruples.
 
 
-## Horarios registros y Juegos Dobles
+## Horarios registros
 
 * Confección de [horario]({{site.baseurl}}/modules/cronogramas/horario/) a partir de instrucciones
   * Se evaluará si las instrucciones serán:
@@ -58,3 +60,9 @@ Para relevar el punto de partida de los alumnos se pueden proponer situaciones d
 * Ejemplo de un registro de hábitos. Algo similar vamos a hacer para hacer un seguimiento como estudiantes
 
 ![Ejemplo](http://www.thecosmicroad.com/wp-content/uploads/2017/01/Habit-Tracker-A5.png)
+
+## Juego duplica triplica y cuadriplica. Con dados.
+
+[Ver juego en Relaciones Múltiples. Serie Piedra Libre](https://www.educ.ar/recursos/117989/relaciones-multiples?coleccion=118471)
+
+![tablero]({{site.baseurl}}/img/mate/tableroDobles.jpg)
