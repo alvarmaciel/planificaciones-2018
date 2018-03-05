@@ -32,7 +32,9 @@ layout: base
 						</div>
 					{% endif %}
 				</div>
+				{% if site.disqus or page.disqus %}
 				{% include disqus.html %}
+				{% endif %}
 			</div>
 		</div>
 	</div>
