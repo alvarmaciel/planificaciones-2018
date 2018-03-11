@@ -17,7 +17,7 @@ Selección de algunos cuentos que le gustan al profe ^_^
 
 |Tapa|Datos|
 |:--:|:--|
-|![]({{site.baseurl}}/assets/img/libros/saki1.jpg)|**Animales más que animales** <br/> Saki<br/>Editorial: Nueva Edición<br/>|
+|![]({{site.baseurl}}/assets/img/libros/saki1.jpg)|**La ventana abierta** en **Animales más que animales** <br/> Saki<br/>Editorial: Nueva Edición<br/>|
 
 
 ### Verde
@@ -31,7 +31,7 @@ Selección de algunos cuentos que le gustan al profe ^_^
 
 |Tapa|Datos|
 |:--:|:--|
-|![]({{site.baseurl}}/assets/img/libros/sucedio.jpg)|**Verde** en **Sucedió en colores**<br/>Liliana Bodoc<br/>ilustraciones: Carolina Farías<br/>Editorial: Alfaguara|
+|![]({{site.baseurl}}/assets/img/libros/sucedio.jpg)|**Rojo** en **Sucedió en colores**<br/>Liliana Bodoc<br/>ilustraciones: Carolina Farías<br/>Editorial: Alfaguara|
 
 ### Las brujas que trabajan en los cuentos
 
