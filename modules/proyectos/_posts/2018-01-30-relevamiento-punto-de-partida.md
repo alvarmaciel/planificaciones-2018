@@ -1,7 +1,7 @@
 ---
 title: Relevamiento de punto de partida
 author: Alvar Maciel
-tags: [cronogramas]
+tags: [proyectos]
 subtitle: Prácticas del lenguaje y matemáticas
 category:  proyectos
 published: true
