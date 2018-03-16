@@ -1,0 +1,6 @@
+# Jekyll build
+/_site/
+.jekyll-metadata
+
+# Docs
+/assets/docs/khan/
