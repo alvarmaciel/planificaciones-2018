@@ -51,7 +51,7 @@ disqus: true
 <tr>
   <th rowspan="3">Secuencias y Proyectos</th>
   <td colspan="1">Ficha del lector de los cuentos del año pasado<br/>Peter Pan</td>
-  <td colspan="3">Proyecto: Ciclo Homérico</td>
+  <td colspan="3">Proyecto: Ciclo Homérico o creepypastas</td>
   <td></td>
 </tr>
 
@@ -65,6 +65,8 @@ disqus: true
   <td colspan="3">Leer en medios digitales: Lista de tweet</td>
 </tr>
 </table>
+
+---
 
 <table>
 <tr>
