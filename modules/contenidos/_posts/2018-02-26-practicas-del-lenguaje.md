@@ -108,7 +108,7 @@ disqus: true
 </tr>
 </table>
 
-## Listado de cuentos leidos en el 2017
+## Listado de cuentos leídos en el 2017
 
 - Dragones. Gustavo Roldán.
 - El pequeño libro rojo. P. Braseur.
