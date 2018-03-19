@@ -22,6 +22,86 @@ disqus: true
 
 
 ## Distribución anual de proyectos
+<!-- Modelo de tabla
+
+<table>
+  <tr>
+    <td colspan="2">
+    Primer Cuatrimestre 2018
+    </td>
+    <td >
+    Marzo
+    </td>
+    <td>
+    Abril
+    </td>
+    <td >
+    Mayo
+    </td>
+    <td>
+    Junio
+    </td>
+    <td>
+    Julio
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="6">
+    Modalidades Organizativas
+    </td>
+    <td rowspan="3">
+    Situaciones Habituales
+    </td>
+    <td colspan="5">
+    Portfolio de producciones
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    Ronda de Grado
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    Biblioteca Institucional
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="3">
+    Secuencias y proyectos
+    </td>
+    <td>
+    Ficha del lector de los cuentos del año pasado<br/>Peter Pan
+    </td>
+    <td colspan="3">
+    Proyecto: Ciclo Homérico o creepypastas
+    </td>
+    <td>
+
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+    </td>
+    <td colspan="4">
+    Leer y escribir para estudiar CS &amp; CN
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+    </td>
+    <td> 
+
+    </td>
+    <td colspan="3">
+    Leer en medios digitales: Lista de tweet
+    </td>
+  </tr>
+</table>
+--->
+
 
 <table>
   <th>
@@ -198,81 +278,3 @@ disqus: true
 - Lupertius.
 - El rey que no quería bañarse.
 - Aladino y la lámpara maravillosa.
-
-
-<table>
-  <tr>
-    <td colspan="2">
-    Primer Cuatrimestre 2018
-    </td>
-    <td >
-    Marzo
-    </td>
-    <td>
-    Abril
-    </td>
-    <td >
-    Mayo
-    </td>
-    <td>
-    Junio
-    </td>
-    <td>
-    Julio
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="6">
-    Modalidades Organizativas
-    </td>
-    <td rowspan="3">
-    Situaciones Habituales
-    </td>
-    <td colspan="5">
-    Portfolio de producciones
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5">
-    Ronda de Grado
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5">
-    Biblioteca Institucional
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="3">
-    Secuencias y proyectos
-    </td>
-    <td>
-    Ficha del lector de los cuentos del año pasado<br/>Peter Pan
-    </td>
-    <td colspan="3">
-    Proyecto: Ciclo Homérico o creepypastas
-    </td>
-    <td>
-
-    </td>
-  </tr>
-  <tr>
-    <td>
-
-    </td>
-    <td colspan="4">
-    Leer y escribir para estudiar CS &amp; CN
-    </td>
-  </tr>
-  <tr>
-    <td>
-
-    </td>
-    <td> 
-
-    </td>
-    <td colspan="3">
-    Leer en medios digitales: Lista de tweet
-    </td>
-  </tr>
-</table>
