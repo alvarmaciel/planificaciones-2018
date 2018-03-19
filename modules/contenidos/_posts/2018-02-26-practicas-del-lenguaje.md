@@ -24,46 +24,80 @@ disqus: true
 ## Distribución anual de proyectos
 
 <table>
-<tr>
-<th colspan="7" align="center"> Primer Cuatrimestre 2018</th>
-</tr>
+  <th>
+    <td colspan="2">
+    Primer Cuatrimestre 2018
+    </td>
+    <td >
+    Marzo
+    </td>
+    <td>
+    Abril
+    </td>
+    <td >
+    Mayo
+    </td>
+    <td>
+    Junio
+    </td>
+    <td>
+    Julio
+    </td>
+  </th>
+  <tr>
+    <td rowspan="6">
+    Modalidades Organizativas
+    </td>
+    <td rowspan="3">
+    Situaciones Habituales
+    </td>
+    <td colspan="5">
+    Portfolio de producciones
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    Ronda de Grado
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    Biblioteca Institucional
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="3">
+    Secuencias y proyectos
+    </td>
+    <td>
+    Ficha del lector de los cuentos del año pasado<br/>Peter Pan
+    </td>
+    <td colspan="3">
+    Proyecto: Ciclo Homérico o creepypastas
+    </td>
+    <td>
 
-<tr>
-  <th rowspan="7" > Modalidades Organizativas</th>
-  <th rowspan="4" valign="center">Situaciones habituales</th>
-  <th>Marzo</th>
-  <th>Abril</th>
-  <th>Mayo</th>
-  <th>Junio</th>
-  <th>Julio</th>
-</tr>
+    </td>
+  </tr>
+  <tr>
+    <td>
 
-<tr>
-<td rowspan="3" colspan="5">Portfolio de producciones del año <br/> Ronda de grado<br/> Biblioteca institucional</td>
-</tr>
+    </td>
+    <td colspan="4">
+    Leer y escribir para estudiar CS &amp; CN
+    </td>
+  </tr>
+  <tr>
+    <td>
 
-<tr>
-</tr>
+    </td>
+    <td> 
 
-<tr>
-</tr>
-
-<tr>
-  <th rowspan="3">Secuencias y Proyectos</th>
-  <td colspan="1">Ficha del lector de los cuentos del año pasado<br/>Peter Pan</td>
-  <td colspan="3">Proyecto: Ciclo Homérico o creepypastas</td>
-  <td></td>
-</tr>
-
-<tr>
-  <td colspan="1"></td>
-  <td colspan="5">Leer y escribir para estudiar CS & CN</td>
-</tr>
-
-<tr>
-  <td colspan="2"></td>
-  <td colspan="3">Leer en medios digitales: Lista de tweet</td>
-</tr>
+    </td>
+    <td colspan="3">
+    Leer en medios digitales: Lista de tweet
+    </td>
+  </tr>
 </table>
 
 ---
@@ -164,3 +198,81 @@ disqus: true
 - Lupertius.
 - El rey que no quería bañarse.
 - Aladino y la lámpara maravillosa.
+
+
+<table>
+  <tr>
+    <td colspan="2">
+    Primer Cuatrimestre 2018
+    </td>
+    <td >
+    Marzo
+    </td>
+    <td>
+    Abril
+    </td>
+    <td >
+    Mayo
+    </td>
+    <td>
+    Junio
+    </td>
+    <td>
+    Julio
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="6">
+    Modalidades Organizativas
+    </td>
+    <td rowspan="3">
+    Situaciones Habituales
+    </td>
+    <td colspan="5">
+    Portfolio de producciones
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    Ronda de Grado
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    Biblioteca Institucional
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="3">
+    Secuencias y proyectos
+    </td>
+    <td>
+    Ficha del lector de los cuentos del año pasado<br/>Peter Pan
+    </td>
+    <td colspan="3">
+    Proyecto: Ciclo Homérico o creepypastas
+    </td>
+    <td>
+
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+    </td>
+    <td colspan="4">
+    Leer y escribir para estudiar CS &amp; CN
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+    </td>
+    <td> 
+
+    </td>
+    <td colspan="3">
+    Leer en medios digitales: Lista de tweet
+    </td>
+  </tr>
+</table>
