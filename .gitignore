@@ -1,5 +1,6 @@
 # Jekyll build
-/_site/
+
+/_site/*
 .jekyll-metadata
 
 
