@@ -1,6 +1,8 @@
 # Jekyll build
 /_site/
 .jekyll-metadata
+_site
+.sass-cache
 
 # Docs
 /assets/docs/khan/
