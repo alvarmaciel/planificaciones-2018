@@ -22,163 +22,52 @@ disqus: true
 
 
 ## Distribución anual de proyectos
-<!-- Modelo de tabla
+
+
+
 
 <table>
   <tr>
-    <td colspan="2">
+    <th colspan="7">
     Primer Cuatrimestre 2018
-    </td>
-    <td >
-    Marzo
-    </td>
-    <td>
-    Abril
-    </td>
-    <td >
-    Mayo
-    </td>
-    <td>
-    Junio
-    </td>
-    <td>
-    Julio
-    </td>
+    </th>
   </tr>
   <tr>
-    <td rowspan="6">
-    Modalidades Organizativas
-    </td>
-    <td rowspan="3">
-    Situaciones Habituales
-    </td>
-    <td colspan="5">
-    Portfolio de producciones
-    </td>
+    <th rowspan="7"> Modalidades Organizativas</th>
+    <th rowspan="4" valign="bottom">Situaciones habituales</th>
+    <th>Marzo</th>
+    <th>Abril</th>
+    <th>Mayo</th>
+    <th>Junio</th>
+    <th>Julio</th>
   </tr>
   <tr>
-    <td colspan="5">
-    Ronda de Grado
-    </td>
+  <td rowspan="3" colspan="5">Portfolio de producciones del año <br/>Ronda de grado <br/> Biblioteca institucional</td>
   </tr>
-  <tr>
-    <td colspan="5">
-    Biblioteca Institucional
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="3">
-    Secuencias y proyectos
-    </td>
-    <td>
-    Ficha del lector de los cuentos del año pasado<br/>Peter Pan
-    </td>
-    <td colspan="3">
-    Proyecto: Ciclo Homérico o creepypastas
-    </td>
-    <td>
 
-    </td>
+  <tr>  </tr>
+  <tr>  </tr>
+  <tr>
+    <th rowspan="3"> Secuencias y Proyectos</th>
+    <td>Ficha del lector de los cuentos 2017<br/>Peter Pan</td>
+    <td colspan="3">Proyecto: Ciclo Homérico o creepypastas</td>
+    <td>Pausa mitad de año</td>
   </tr>
   <tr>
-    <td>
-
-    </td>
+    <td></td>
     <td colspan="4">
     Leer y escribir para estudiar CS &amp; CN
     </td>
   </tr>
   <tr>
-    <td>
-
-    </td>
-    <td> 
-
-    </td>
+    <td></td>
+    <td></td>
     <td colspan="3">
     Leer en medios digitales: Lista de tweet
     </td>
   </tr>
 </table>
---->
 
-
-<table>
-  <th>
-    <td colspan="2">
-    Primer Cuatrimestre 2018
-    </td>
-    <td >
-    Marzo
-    </td>
-    <td>
-    Abril
-    </td>
-    <td >
-    Mayo
-    </td>
-    <td>
-    Junio
-    </td>
-    <td>
-    Julio
-    </td>
-  </th>
-  <tr>
-    <td rowspan="6">
-    Modalidades Organizativas
-    </td>
-    <td rowspan="3">
-    Situaciones Habituales
-    </td>
-    <td colspan="5">
-    Portfolio de producciones
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5">
-    Ronda de Grado
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5">
-    Biblioteca Institucional
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="3">
-    Secuencias y proyectos
-    </td>
-    <td>
-    Ficha del lector de los cuentos del año pasado<br/>Peter Pan
-    </td>
-    <td colspan="3">
-    Proyecto: Ciclo Homérico o creepypastas
-    </td>
-    <td>
-
-    </td>
-  </tr>
-  <tr>
-    <td>
-
-    </td>
-    <td colspan="4">
-    Leer y escribir para estudiar CS &amp; CN
-    </td>
-  </tr>
-  <tr>
-    <td>
-
-    </td>
-    <td> 
-
-    </td>
-    <td colspan="3">
-    Leer en medios digitales: Lista de tweet
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -207,8 +96,8 @@ disqus: true
 <tr>
   <th rowspan="3"> Secuencias y Proyectos</th>
   <td colspan="3">Seguir un autor</td>
-    <td></td>
-  <td></td>
+    <td>Novela por capítulos</td>
+  <td>Pausa de fin de año</td>
 </tr>
 
 <tr>
@@ -222,7 +111,13 @@ disqus: true
 </tr>
 </table>
 
+
+
+
 ## Listado de cuentos leídos en el 2017
+
+
+
 
 - Dragones. Gustavo Roldán.
 - El pequeño libro rojo. P. Braseur.
