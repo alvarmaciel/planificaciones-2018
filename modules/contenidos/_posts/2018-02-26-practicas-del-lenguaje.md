@@ -50,7 +50,7 @@ disqus: true
   <tr>
     <th rowspan="3"> Secuencias y Proyectos</th>
     <td>Ficha del lector de los cuentos 2017<br/>Peter Pan</td>
-    <td colspan="3">Proyecto: Ciclo Homérico o creepypastas</td>
+    <td colspan="3">Proyecto: CreepyPastas</td>
     <td>Pausa mitad de año</td>
   </tr>
   <tr>
