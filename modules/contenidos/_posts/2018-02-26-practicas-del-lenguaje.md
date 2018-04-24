@@ -63,7 +63,7 @@ disqus: true
     <td></td>
     <td></td>
     <td colspan="3">
-    Leer en medios digitales: Lista de tweet
+    Leer en medios digitales: CreepyPastas
     </td>
   </tr>
 </table>
@@ -95,8 +95,8 @@ disqus: true
 </tr>
 <tr>
   <th rowspan="3"> Secuencias y Proyectos</th>
-  <td colspan="3">Seguir un autor</td>
-    <td>Novela por capítulos</td>
+  <td colspan="3">Seguir un autor: Pablo De Santis</td>
+    <td>Novela por capítulos: El inventor de juegos</td>
   <td>Pausa de fin de año</td>
 </tr>
 
