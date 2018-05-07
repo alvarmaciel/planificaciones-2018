@@ -51,6 +51,10 @@ published: true
 **Datos**
 - [Los caminos de la frutilla, el paso a paso de su producción](http://feriafresca.com.ar/los-caminos-de-la-frutilla-el-paso-a-paso-de-su-produccion/)
 - [Noticia en La Nación: Frutilla una delicia que busca crecer](https://www.lanacion.com.ar/2015024-frutilla-una-delicia-que-busca-crecer)
+- [Frutas Finas MAGyP](http://slideplayer.es/slide/1050274/)
+- [CONDUCTA, DINÁMICA Y PATRONES TECNOLÓGICOS DE LA CADENA DE FRUTAS FINAS](http://www.mincyt.gob.ar/adjuntos/archivos/000/036/0000036207.pdf)
+- [Ensayos para reemplazar el Bromuro de Metilio](https://www.lagaceta.com.ar/nota/464450/rural/ensayos-frutilla-para-reemplazar-al-bromuro-metilo.html)
+- [Frutillas libres para el 2015](https://inta.gob.ar/noticias/frutillas-libres-para-el-2015)
 - [Producción de la frutilla en Rio Negro](https://www.rionegro.com.ar/pulso/produccion-de-frutillas-en-la-region-una-propuesta-viable-EARN_8007670)
 - [Situación actual de la producción de frutillas](http://suenaacampo.com/2017/08/03/situacion-actual-la-produccion-las-frutas-finas-argentina/)
 - [Informe INTA](http://intainforma.inta.gov.ar/?p=22316)
