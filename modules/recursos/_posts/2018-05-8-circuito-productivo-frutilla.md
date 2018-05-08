@@ -1,7 +1,7 @@
 ---
 title: Fuentes e información
 author: Alvar Maciel
-tags: [proyectos]
+tags: [recursos]
 subtitle: Circuito Productivo de las Frutillas
 category:  recursos
 published: true
