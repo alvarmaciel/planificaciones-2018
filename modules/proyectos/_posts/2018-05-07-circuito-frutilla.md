@@ -65,3 +65,15 @@ published: true
 - [Video](https://www.youtube.com/watch?v=mSZ1578WVYU)
 - [Recomendaciónes para realizar una buena plantación](https://inta.gob.ar/noticias/recomendaciones-para-realizar-una-buena-plantacion-de-frutillas)
 - [como cultivar frutillas](http://www.elbroteurbano.com/como-cultivar-frutillas/)
+
+## Secuencia
+
+### Ideas previas
+
+### Recolección de información
+
+#### Lectura de imágenes e Infografías
+
+### Lectura de mapas
+
+### Elaboración de informes
