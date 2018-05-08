@@ -7,7 +7,7 @@ category:  recursos
 published: true
 ---
 
-
+- [Los caminos de la frutilla, el paso a paso de su producción]({{site.baseurl}}/assets/docs/sociales/Los-Caminos-de-la-frutilla.odt)
 - [Los caminos de la frutilla, el paso a paso de su producción](http://feriafresca.com.ar/los-caminos-de-la-frutilla-el-paso-a-paso-de-su-produccion/)
 - [Noticia en La Nación: Frutilla una delicia que busca crecer](https://www.lanacion.com.ar/2015024-frutilla-una-delicia-que-busca-crecer)
 - [Frutas Finas MAGyP](http://slideplayer.es/slide/1050274/)
