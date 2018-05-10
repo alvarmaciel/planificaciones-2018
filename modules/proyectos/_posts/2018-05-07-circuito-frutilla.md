@@ -69,10 +69,22 @@ published: true
 ## Secuencia
 
 ### Ideas previas
+Antes de empezar el proyecto se establecerá una charla con el el grupo a fin de indagar cómo y qué es lo que desayuna, para de ahí derivar en la mermelada de frutilla y hacer la pregunta guía de nustra indagación.
+> ¿Cómo piensan que es el proceso por el cual la mermelada de frutilla llega a nuestras mesas?
 
+Organizado en grupos tendrán que hablar entre ello y escribir una respuesta a esta pregunta. Luego se hará una puesta en común
 ### Recolección de información
 
+1. Resumen de un texto informativo
+- Lectura de [Los caminos de la frutilla, el paso a paso de su producción](http://feriafresca.com.ar/los-caminos-de-la-frutilla-el-paso-a-paso-de-su-produccion/)
+  - Primer lectura individual
+  - Lectura en grupo total escribiendo al margen y remarcando el sentido y significado de cada párrafo
+  - Reescritura del resumen
+
 #### Lectura de imágenes e Infografías
+
+1. Lectura en grupos de la infografía de [Los caminos de la frutilla, el paso a paso de su producción](http://feriafresca.com.ar/los-caminos-de-la-frutilla-el-paso-a-paso-de-su-produccion/)
+- ¿Qué información nos aporta la infografía? ¿es igual, o distinta a la que encontramos haciendo el resumen?
 
 ### Lectura de mapas
 
