@@ -87,5 +87,10 @@ Organizado en grupos tendrán que hablar entre ello y escribir una respuesta a e
 - ¿Qué información nos aporta la infografía? ¿es igual, o distinta a la que encontramos haciendo el resumen?
 
 ### Lectura de mapas
+- Ubicación en el mapa de la Argentina las provincias productoras de frutillas y las localidades más relevantes en la producción. Traslado de la información a un mapa nro 5.
+
+### Toma de Apuntes
+
+- A partir de los videos reseñados en [Datos e Informes]({{site.baseurl}}/modules/recursos/circuito-productivo-frutilla)
 
 ### Elaboración de informes
