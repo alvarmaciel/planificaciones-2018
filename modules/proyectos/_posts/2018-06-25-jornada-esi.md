@@ -29,7 +29,7 @@ published: true
 
 ## Actividades
 
--   Conezaremos con una puesta en común relevando que entendemos por consentimiento y anotaremos en el pizarrón los relevado
+-   Comezaremos con una puesta en común relevando que entendemos por consentimiento y anotaremos en el pizarrón los relevado
 -   Vamos a ver el video [El consentimiento para niñes](https://www.youtube.com/watch?v=qhKoCFQ3Yog)
 -   Puesta en común identificando:
     -   qué es el consemtimiento,
@@ -39,6 +39,6 @@ published: true
 
 ## Fuentes
 
--   [Lineamientos curriculares para la Educación Sexual Integral en el Nivel Primario](assets/docs/educ-sexual-np.pdf)
--   [Educación sexual integral para la educación primaria: contenidos y propuestas para el aula](assets/docs/esi_primaria.pdf)
+-   [Lineamientos curriculares para la Educación Sexual Integral en el Nivel Primario]({{site.baseurl}}/assets/docs/educ-sexual-np.pdf)
+-   [Educación sexual integral para la educación primaria: contenidos y propuestas para el aula]({{site.baseurl}}/assets/docs/esi_primaria.pdf)
 
