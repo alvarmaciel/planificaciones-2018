@@ -35,6 +35,7 @@ published: true
     -   qué es el consemtimiento,
     -   qué situaciones son las que implican tener consentimiento del otre,
     -   qué hacer o a quien acudir cuando no se respeta el consentimiento
+- Armado de memes usando [imgur](https://imgur.com/memegen)
 
 
 ## Fuentes
